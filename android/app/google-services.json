@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "757524256958",
+    "project_id": "feitan-taxi",
+    "storage_bucket": "feitan-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757524256958:android:fcbca5ed31842db0d826ef",
+        "android_client_info": {
+          "package_name": "com.crdarkside.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757524256958-l022br6hbkl57elktr1p9pr6gg208meu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrdEWX9T2ggF4n_u0z02pE6zyT2GlJZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757524256958-l022br6hbkl57elktr1p9pr6gg208meu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
